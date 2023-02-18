@@ -7,6 +7,10 @@ feito com React-native
 - REACT-NATIVE-MODAL
 - REACT- ELEMENTS
 - THEME PROVIDER
+- HOOKS
+- TOUCHABLEOPACITY
+- ONPRESS
+- ONCHANGE
 
 - Entendendo o Projeto
 
