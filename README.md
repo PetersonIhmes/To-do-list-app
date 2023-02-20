@@ -38,4 +38,4 @@ Criar lista de tarefas.
  usei o ícone de exclusão. 
  Quando o usuário clicar no ícone, remova a tarefa
 
-![Screenshot_20230218-120949](https://user-images.githubusercontent.com/118133517/219874801-8ad35f13-60dc-46c7-afbb-e49aade609a8.png)
+![20230220_131856](https://user-images.githubusercontent.com/118133517/220159395-16c24862-ce03-47ac-8653-4c304e9c96f3.gif)
